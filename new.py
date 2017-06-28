@@ -1,2 +1,2 @@
 def neueFunktion():
-	pass
+	print("Ich bin eine neue Funktion")
