@@ -1,5 +1,6 @@
+#Fertige Version
 def main():
-	print("Einfache Ausgabe")
+	print("fertige Version")
 
 if __name__ == "__main__":
 	# execute only if run as a script
