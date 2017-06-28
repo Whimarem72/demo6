@@ -1,2 +1,2 @@
 def neueFunktion():
-	print("Ich bin eine neue Funktion")
+	print("Ich bin eine neue Funktion!")
